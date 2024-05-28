@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 30px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
